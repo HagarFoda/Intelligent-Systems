@@ -1,0 +1,2 @@
+XO Game Search Techniques: Uncover an array of strategic algorithms including BFS, DFS, Uninformed Cost Search, DLS, IDS, and Bidirectional Search. 
+Enhance your gameplay against the computer with versatile and efficient search strategies tailored for X O challenges.
